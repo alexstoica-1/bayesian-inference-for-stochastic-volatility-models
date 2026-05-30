@@ -1,1 +1,2 @@
-# nothing yet.DS_Store
+# ignore all .DS_Store files
+.DS_Store
