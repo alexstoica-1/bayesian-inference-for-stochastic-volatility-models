@@ -1,3 +1,3 @@
-# Bayesianv Inference for Stochastic Volatility Models
+# Bayesian Inference in Stochastic Volatility Models for Financial Markets
 
-Source code for Bachelor's Thesis.
+Source code for my Bachelor's Thesis.
