@@ -1,9 +1,2 @@
 # ignore all .DS_Store files
 .DS_Store
-
-# Python runtime artifacts
-__pycache__/
-*.py[cod]
-
-# Matplotlib cache created by appendix simulation runs
-appendix_simulation/.matplotlib-cache/
