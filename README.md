@@ -8,6 +8,7 @@ The simulation is intended as an illustrative numerical exercise supporting the 
 
 ## Contents
 
-- `sv_simulation_appendix.ipynb`: notebook containing the simulation, MCMC sampler, figures, and diagnostics.
-- `figures/`: generated figures used in the appendix.
-- `output/`: numerical summary outputs from the simulation.
+- `notebooks/sv_simulation_appendix.ipynb`: notebook containing the simulation, MCMC sampler, figures, and diagnostics.
+- `notebooks/figures/`: generated figures used in the appendix.
+- `notebooks/output/`: numerical summary outputs from the simulation.
+- `thesis_final.pdf`:actual final dissertation
