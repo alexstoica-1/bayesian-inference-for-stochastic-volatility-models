@@ -1,0 +1,4 @@
+Overall acceptance rate: 0.6908
+Posterior mean of h_500: -11.3749
+Posterior standard deviation of h_500: 0.4055
+Average 95% credible interval width: 1.4467
